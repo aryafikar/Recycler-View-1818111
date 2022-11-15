@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/weka/Kampus/semester 7/Pemrograman Mobile/Tugas Praktikum/Pertemuan31818093/app/src/main/res/drawable/ic__0830632741582956833.xml" value="0.21770833333333334" />
+        <entry key="..\:/weka/Kampus/semester 7/Pemrograman Mobile/Tugas Praktikum/Pertemuan31818093/app/src/main/res/drawable/ic_icons8_dota_2.xml" value="0.21770833333333334" />
+        <entry key="..\:/weka/Kampus/semester 7/Pemrograman Mobile/Tugas Praktikum/Pertemuan31818093/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/weka/Kampus/semester 7/Pemrograman Mobile/Tugas Praktikum/Pertemuan31818093/app/src/main/res/layout/fragment_chat.xml" value="0.1" />
+        <entry key="..\:/weka/Kampus/semester 7/Pemrograman Mobile/Tugas Praktikum/Pertemuan31818093/app/src/main/res/layout/fragment_mesej.xml" value="0.1" />
+        <entry key="..\:/weka/Kampus/semester 7/Pemrograman Mobile/Tugas Praktikum/Pertemuan31818093/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/weka/Kampus/semester 7/Pemrograman Mobile/Tugas Praktikum/Pertemuan31818093/app/src/main/res/layout/nav_header.xml" value="0.22" />
+        <entry key="..\:/weka/Kampus/semester 7/Pemrograman Mobile/Tugas Praktikum/Pertemuan31818093/app/src/main/res/menu/draw_menu.xml" value="0.2015625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
